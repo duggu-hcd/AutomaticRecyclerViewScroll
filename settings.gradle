@@ -1,0 +1,2 @@
+rootProject.name='AutomaticScroll'
+include ':app'

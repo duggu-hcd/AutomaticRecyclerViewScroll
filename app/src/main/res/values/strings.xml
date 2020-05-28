@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AutomaticScroll</string>
+
+    <string-array name="list_array">
+        <item>What goes up and down but does not move?</item>
+        <item>Where should a 500 pound alien go?</item>
+        <item>What did one toilet say to the other?</item>
+        <item>Why did the picture go to jail?</item>
+        <item>What did one wall say to the other wall?</item>
+        <item>What did the paper say to the pencil?</item>
+        <item>What do you call a boy named Lee that no one talks to?</item>
+        <item>What gets wetter the more it dries?</item>
+        <item>Why do bicycles fall over?</item>
+        <item>Why do dragons sleep during the day?</item>
+        <item>What did Cinderella say when her photos did not show up?</item>
+        <item>Why was the broom late?</item>
+        <item>What part of the car is the laziest?</item>
+        <item>What did the stamp say to the envelope?</item>
+        <item>What is blue and goes ding dong?</item>
+        <item>Were you long in the hospital?</item>
+        <item>Why couldn\'t the pirate play cards?</item>
+        <item>What did the laundryman say to the impatient customer?</item>
+        <item>What\'s the difference between a TV and a newspaper?</item>
+        <item>What did one elevator say to the other elevator?</item>
+        <item>Why was the belt arrested?</item>
+        <item>Why was everyone so tired on April 1st?</item>
+    </string-array>
+</resources>
